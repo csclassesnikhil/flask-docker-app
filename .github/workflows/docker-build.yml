@@ -1,4 +1,4 @@
-name: Build & Push Flask Docker Image
+name: Build & Push Flask Docker Image  faster
 
 on:
   push:
