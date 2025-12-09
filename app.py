@@ -7,7 +7,7 @@ def home():
     return {"message": "Hello from Flask!"}
 
 @app.route("/hello")
-def home():
+def bome():
     return {"message": "This is the hello route"}
 
 if __name__ == "__main__":
